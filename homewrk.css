@@ -1,0 +1,51 @@
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+body{
+    background-color: #777;  
+}
+header, nav, footer{
+    background-color: white;    
+    text-align: center;   
+    height: 50px;
+    margin-top: 5px;
+}
+section{
+    background-color: red;
+    width: 50%;
+    height: 300px;
+    float: left;
+    text-align: center;
+    margin-top: 5px;
+}
+article{
+    background-color: black;
+    color: white;    
+    text-align: center; 
+    margin: 80px 10px 8px 10px; 
+    height: 180px;
+}
+.d1{
+    background-color: blue;   
+    padding: 25px;
+    margin: 5px 5px 10px 5px;
+}
+p{
+    background-color: aqua;
+    padding: 25px;
+    margin: 0px 5px 10px 5px;
+}
+aside{
+    background-color: green;
+    width: 50%;
+    height: 300px;
+    float: left;
+    text-align: center;
+    margin-top: 5px;
+}
+
+footer{
+    clear: both;
+    margin-bottom: 50px;
+}
